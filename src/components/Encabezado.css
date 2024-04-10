@@ -1,0 +1,35 @@
+header {
+    width: 100%;
+    margin: 3px 10px 0 25px;
+    padding-right: 15px;
+}
+
+header:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#logo {
+    background-color: rgb(54, 54, 54);
+    float: left;
+    padding: 0 60px;
+    margin-left: 7em;
+}
+
+#iso {
+    width: 100px;
+    float: left;
+}
+
+#videologo video {
+    height: 100px;
+}
+
+#od {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #fff;
+    font-size: 2.2em;
+    text-align: center;
+    line-height: .83em;
+}

@@ -1,0 +1,58 @@
+#form_alta_obj {
+    margin-bottom: 4px;
+}
+
+.al_ob_btn {
+    margin-left: 15px;
+    margin-top: 4px;
+    font-size: 0.9em;
+    color: #000;
+}
+
+#tb_obj {
+    margin: 0 5px;
+    border-collapse: collapse;
+}
+
+#tb_obj th {
+    height: 2.5em;
+    background-color: rgb(78, 42, 9);
+    color: white;
+    text-align: left;
+    padding-left: 0.3em;
+}
+
+#tb_obj td {
+    height: 2em;
+    padding: 0.3em 0 0.3em 0.3em;
+}
+
+#tb_obj tr:nth-child(even) {
+    background-color: rgb(218, 179, 143);
+}
+
+#tb_obj tr:nth-child(odd) {
+    background-color: rgb(228, 193, 163);
+}
+
+#titobj {
+    background-color: rgb(39, 39, 39);
+    color: rgb(189, 131, 98);
+    font-weight: bold;
+    text-align: left;
+    font-size: 2em;
+    line-height: 1em;
+    padding: 5px 0 5px 6em;
+    margin: 5px 0 0 0;
+}
+
+.btnCancel {
+    margin-left: 11.4em;
+    color: #000;
+    text-decoration: none;
+}
+
+.btnCancel :visited {
+    color: #000;
+    text-decoration: none;
+}

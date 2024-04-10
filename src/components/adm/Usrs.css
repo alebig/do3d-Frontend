@@ -1,0 +1,157 @@
+#form_alta_usu {
+    margin-bottom: 4px;
+}
+
+.al_us_btn {
+    margin-left: 15px;
+    margin-top: 4px;
+    font-size: 0.9em;
+}
+
+.opcAdm {
+/*    display: inline-block;*/
+    height: 32px;
+    width: 110px;
+    margin: .5em 0 .5em 1em;
+    color: #000;
+    text-align: center;
+    text-decoration: none;
+}
+
+.col1 {
+    background-color: #bdbdbd;
+}
+
+.col2 {
+    background-color: burlywood;
+}
+
+.col3 {
+    background-color: cadetblue;
+}
+
+.col4 {
+    background-color: darkseagreen;
+}
+
+.col5 {
+    background-color: lemonchiffon;
+}
+
+.Link {
+    color: #000;
+    text-decoration: none;
+}
+
+.Link :visited {
+    color: #000;
+    text-decoration: none;
+}
+
+.usu {
+    margin-top: 0;
+}
+
+#tb_usr {
+    margin: 0 5px;
+    border-collapse: collapse;
+}
+
+#tb_usr th {
+    height: 2.5em;
+    background-color: rgb(1, 43, 6);
+    color: white;
+    text-align: left;
+    padding-left: 0.3em;
+}
+
+#tb_usr td {
+    height: 2em;
+    padding: 0.3em 0 0.3em 0.3em;
+}
+
+#tb_usr tr:nth-child(even) {
+    background-color: rgb(164, 236, 168);
+}
+
+#tb_usr tr:nth-child(odd) {
+    background-color: rgb(148, 212, 151);
+}
+
+.edel {
+    height: 1.6em;
+    width: 4.4em;
+    color: #000;
+    text-align: center;
+    text-decoration: none;
+    margin: 0 0.6em;
+}
+
+.centro {
+    text-align: center;
+}
+
+.derecha {
+    text-align: right;
+}
+
+/*h2 {
+    margin: 0;
+}*/
+
+#titusu {
+    background-color: rgb(39, 39, 39);
+    color: rgb(62, 167, 53);
+    font-weight: bold;
+    text-align: left;
+    font-size: 2em;
+    line-height: 1em;
+    padding: 5px 0 5px 6em;
+    margin: 5px 0 0 0;
+}
+
+.btn {
+    color: lightgray;
+}
+
+.lin {
+    height: 2.3em;
+/*    margin: .3em .2em;*/
+}
+
+.lab {
+    float: left;
+    width: 10em;
+    height: 2.2em;
+    text-align: right;
+    padding: .5em .5em 0 0;
+    margin-right: .3em;
+    background-color: rgb(38, 38, 39);
+    color: #fff;
+    border-radius: 5px;
+}
+
+.lnk {
+    color: #000;
+    text-decoration: none;
+}
+
+.lnk :visited {
+    color: #000;
+    text-decoration: none;
+}
+
+.btnCancel {
+    margin-left: 11.4em;
+    color: #000;
+    text-decoration: none;
+}
+
+.btnCancel :visited {
+    color: #000;
+    text-decoration: none;
+}
+
+.frmEdAl {
+    margin: .8em .3em;
+}

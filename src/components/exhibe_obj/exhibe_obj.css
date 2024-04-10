@@ -1,0 +1,93 @@
+h3{
+	background-color: #B43104;
+	padding: 5px;
+	font-family: Arial;
+	font-size: 0.8em;
+	text-transform: uppercase;
+	text-align: center;
+	color: #fff;
+	}
+/* #registro{
+	text-align: center;
+	padding-bottom: 15px;
+	}
+#form_alta_usu {
+	margin-bottom: 4px;
+	}
+#al_us_btn{
+	margin-top: 4px;
+	font-size: 0.9em;
+	} */
+#selector_objetos{
+	text-align: center;
+/*	z-index: 2;*/
+	}
+/*#show_catalogo_1{
+	}*/
+#flecha_obj_i{
+	visibility: hidden;
+	width: 15px;
+	margin-bottom: 20px;
+	border: 1px solid black;
+	}
+#flecha_obj_d{
+	visibility: visible;
+	width: 15px;
+	margin-bottom: 20px;
+	border: 1px solid black;
+	}
+#itemCat_A{
+	width: 21%;
+	/* border: 3px solid #1c1c1c; */
+	}
+#itemCat_B{
+	width: 21%;
+	/* border: 3px solid #1c1c1c; */
+	}
+#itemCat_C{
+	width: 21%;
+	/* border: 3px solid #1c1c1c; */
+	}
+#desc_obj{
+	width: 63%;
+	background-color: #BDBDBD;
+	font-size: .8em;
+	margin: 0 auto;
+	padding: 6px 10px 8px 10px;
+	border: 3px solid #0489B1;
+	}
+/*transform: skew(30deg, 0)*/
+#selector_fotos{
+/*	padding-top: 2px auto 0 auto;*/
+	text-align: center;
+	}
+/*#show_fotos_1{
+	}*/
+#flecha_fotos_i{
+	vertical-align: middle;
+	visibility: hidden;
+	width: 22px;
+	border: 1px solid black;
+	}
+#foto_obj{
+	width: 65%;
+	margin-top: 3px;
+	border: 1px solid black;
+	vertical-align: middle;
+	}
+#flecha_fotos_d{
+	vertical-align: middle;
+	visibility: visible;
+	width: 22px;
+	border: 1px solid black;
+	}
+#desc_fot{
+	width: 63%;
+	background-color: #BDBDBD;
+	font-size: .8em;
+	margin: 0 auto;
+	padding: 6px 10px 8px 10px;
+	border: 3px solid #0489B1;
+	text-align: left;
+	display: block;
+	}

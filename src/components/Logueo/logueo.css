@@ -1,0 +1,99 @@
+#log {
+    float: right;
+    width: 23em;
+    padding: 0;
+}
+
+#logusr {
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+#login {
+    margin-right: 1.5em;
+    float: left;
+    width: 10em;
+    text-align: center;
+}
+
+#logrgt {
+    float: left;
+}
+
+#frmLgn {
+    width: 10em;
+}
+
+#logUsr {
+    margin-bottom: .1em;
+    height: 1.5em;
+    width: inherit;
+    background-color: #CEE3F6;
+    font-size: 0.8em;
+}
+
+#LogPwd {
+    margin-bottom: .1em;
+    height: 1.5em;
+    width: inherit;
+    background-color: #CEE3F6;
+    font-size: 0.8em;
+}
+
+#btnlog {
+    margin-bottom: .2em;
+    height: 1.5em;
+    width: inherit;
+    background-color: #d8d8d8;
+    font-size: 0.8em;
+}
+
+#lnklogin {
+    margin-bottom: .1em;
+    height: 1.3em;
+    width: inherit;
+    /*font-size: 0.7em;
+    text-decoration: none;*/
+}
+
+#lnklogin button {
+    height: 1.3em;
+    width: inherit;
+    background-color: #1c1c1c;
+    border-color: #1c1c1c;
+    color: #bdbdbd;
+    font-size: 0.7em;
+    text-align: left;
+}
+
+#lnklogin button:hover {
+    font-weight: bold;
+    color: #000;
+    border-color: #fff;
+    background-color: #e6e6e6;
+    text-align: center;
+}
+
+#lnklogin2 {
+    margin-bottom: .1em;
+    height: 1.3em;
+    width: inherit;
+}
+
+#lnklogin2 button {
+    height: 1.3em;
+    width: inherit;
+    background-color: #1c1c1c;
+    border-color: #1c1c1c;
+    color: #bdbdbd;
+    font-size: 0.7em;
+    text-align: left;
+}
+
+#lnklogin2 button:hover {
+    font-weight: bold;
+    color: #000;
+    border-color: #fff;
+    background-color: #e6e6e6;
+    text-align: center;
+}
